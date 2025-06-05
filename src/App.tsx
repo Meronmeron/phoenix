@@ -91,7 +91,7 @@ function App() {
     moveCards();
   };
 
-  const selectedCard = cards[selectedCardIndex];
+  // const selectedCard = cards[selectedCardIndex];
   const displayedCards = getDisplayedCards();
 
   return (
